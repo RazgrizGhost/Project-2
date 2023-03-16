@@ -8,6 +8,7 @@ https://archive.ics.uci.edu/ml/datasets/wine+quality
 
 # Description: 
 This dataset shows physicochemical (Features) and sensory (Target) variables.
+Models used: Linear Regression, Bagged Trees, Random Forest. Principal Component Analysis (PCA) used for dimensional reduction.
 
 # 2 analytical insights:
 ![image](https://user-images.githubusercontent.com/118643932/222963635-3a18b5c7-8ad8-494d-b3e5-19aa54155ae9.png)
@@ -21,4 +22,8 @@ This dataset shows physicochemical (Features) and sensory (Target) variables.
 This model will do a good job on determining the best wine quality.
 
 # A Summary: 
-In the analytical findings, it has come to the attention that a little bit more alcohol ups the quality of wine. Model performance 
+In the analytical findings, it has come to the attention that a little bit more alcohol ups the quality of wine. 
+Recommendations include: A balanced data between Good and Excellent Wine for difference in Data. 
+
+## Contact info
+Email: jvil0226CD@gmail.com
