@@ -8,7 +8,7 @@ https://archive.ics.uci.edu/ml/datasets/wine+quality
 
 # Description: 
 This dataset shows physicochemical (Features) and sensory (Target) variables.
-Models used: Linear Regression, Bagged Trees, Random Forest. Principal Component Analysis (PCA) used for dimensional reduction.
+Models used: Linear Regression, Bagged Trees, Random Forest. Principal Component Analysis (PCA) used for dimensional reduction. Bagged Trees and Random Forest was further tuned with the best parameters by utilizing GridCV (Linear Regression is a model that cannot be tuned).  Final Model selected was a Tuned Best Parameters Random Forest Model.
 
 # 2 analytical insights:
 ![image](https://user-images.githubusercontent.com/118643932/222963635-3a18b5c7-8ad8-494d-b3e5-19aa54155ae9.png)
@@ -27,3 +27,4 @@ Recommendations include: A balanced data between Good and Excellent Wine for dif
 
 ## Contact info
 Email: jvil0226CD@gmail.com
+LinkedIn: https://www.linkedin.com/in/jerico-viloria-952893257
